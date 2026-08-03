@@ -15,7 +15,7 @@ print(type(a_new))
 
 num = "100"
 
-print(type(num))      # Before conversion
+print(type(num))      # Before conversgition
 
 num = int(num)
 
